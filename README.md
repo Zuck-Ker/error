@@ -27,7 +27,7 @@ $ git clone https://github.com/Zuck-Ker/error
 
 $ cd error
 
-$ python kontol.py
+$ python free.py
 
 # Note! 
 
