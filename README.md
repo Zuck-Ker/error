@@ -27,7 +27,7 @@ $ git clone https://github.com/Zuck-Ker/error
 
 $ cd error
 
-$ python free.py
+$ python hai.py
 
 # Note! 
 
