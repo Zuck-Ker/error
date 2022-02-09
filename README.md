@@ -36,7 +36,7 @@ $ Salin Semua Teks Tanpa Menggunakan Tanda ($)
 # kalian bisa hubungi gua di sini
 
 $ Whatsapp : wa.me/15075961235                
-$ Facebook : YOSHI
+$ Facebook : YOSHI INGIN BANTAI MARK
 
 
 [•] terimakasih
